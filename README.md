@@ -1,4 +1,4 @@
-# data_dog_app
+# data_rakun_app
 
 A new Flutter application.
 
